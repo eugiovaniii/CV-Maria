@@ -1,4 +1,4 @@
-# CV-Maria
+https://eugiovaniii.github.io/CV-Maria/
 
 Currículo criado com HTML e CSS pela minha namorada.
 
