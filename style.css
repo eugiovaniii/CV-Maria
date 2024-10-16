@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2em;
+    margin: 0;
+}
+
+header img {
+    border-radius: 50%;
+    display: block;
+    height: 100px;
+    margin: 0 auto;
+    width: 100px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+section h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+section ul {
+    list-style: none;
+    padding: 0;
+}
+
+section ul li {
+    margin-bottom: 10px;
+}
+
+#sobre-mim p {
+    text-align: justify;
+}
+
+#experiencia-profissional h3, #formacao-academica h3 {
+    font-size: 1.2em;
+}
+
+#experiencia-profissional ul li ul {
+    margin-left: 20px;
+}
+
+#habilidades ul li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px 10px;
+    border: 1px solid #ddd;
+    border-radius:
